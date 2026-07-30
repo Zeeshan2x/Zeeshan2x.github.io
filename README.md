@@ -17,9 +17,12 @@ This code review evaluates the original Travlr Getaways Full-Stack Web Applicati
 ---
 
 ## Enhancement One
-**Software Design and Engineering**
+### Software Design and Engineering
 
-*Coming Soon*
+This enhancement focused on improving the software engineering practices of the Travlr Getaways application.
+
+- 📄 [Enhancement One Narrative]()
+- 💻 [Enhanced Source Code]()
 
 ---
 
