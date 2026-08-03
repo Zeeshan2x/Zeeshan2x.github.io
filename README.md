@@ -26,9 +26,12 @@ This enhancement focused on improving the software engineering practices of the 
 ---
 
 ## Enhancement Two
-**Algorithms and Data Structures**
+### Algorithms and Data Structures
 
-*Coming Soon*
+This enhancement focused on improving the application's algorithms by implementing backend searching, sorting, and pagination using dynamic MongoDB queries integrated with the Angular frontend.
+
+- 📄 [Enhancement Two Narrative](Enhancement-Two/Enhancement-Two-Narrative.pdf)
+- 💻 [Enhanced Source Code](Enhancement-Two/Enhancement-Two.zip)
 
 ---
 
