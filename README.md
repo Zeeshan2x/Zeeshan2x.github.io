@@ -42,9 +42,12 @@ This enhancement focused on improving the application's algorithms by implementi
 ---
 
 ## Enhancement Three
-**Databases**
+### Databases
 
-*Coming Soon*
+This enhancement focused on strengthening the application's database design through improved schema validation, unique constraints, indexing, data normalization, and query optimization.
+
+- 📄 [Enhancement Three Narrative](Enhancement-Three/Enhancement-Three-Narrative.pdf)
+- 💻 [Enhanced Source Code](Enhancement-Three/Enhancement-Three.zip)
 
 ---
 
