@@ -18,20 +18,72 @@
   --accent-light: #93c5fd;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   background: var(--background);
   color: var(--text);
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
   line-height: 1.7;
+  min-height: 100vh;
 }
 
-/* Main portfolio container */
+/* =========================
+   MAIN CONTAINER
+   ========================= */
+
 .wrapper {
   max-width: 1000px;
 }
 
 section {
   max-width: 1000px;
+}
+
+/* =========================
+   HERO
+   ========================= */
+
+.hero {
+  background: linear-gradient(
+    135deg,
+    rgba(96, 165, 250, 0.13),
+    rgba(17, 24, 39, 0.5)
+  );
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  padding: 38px 42px;
+  margin: 20px 0 48px;
+  box-shadow: 0 12px 35px rgba(0, 0, 0, 0.2);
+}
+
+.hero h1 {
+  margin-top: 0;
+  margin-bottom: 2px;
+  padding: 0;
+  border: none;
+  font-size: 3rem;
+  letter-spacing: -1px;
+  color: #f8fafc;
+}
+
+.hero h3 {
+  margin-top: 0;
+  margin-bottom: 25px;
+  padding: 0;
+  color: var(--accent);
+  font-weight: 500;
+  border: none;
+}
+
+.hero strong {
+  color: var(--accent-light);
+}
+
+.hero p {
+  max-width: 850px;
 }
 
 /* =========================
@@ -58,6 +110,13 @@ h2 {
 
 h3 {
   color: var(--accent-light);
+}
+
+/* Capstone Enhancements heading */
+section > h1 {
+  margin-top: 55px;
+  font-size: 2rem;
+  color: var(--accent);
 }
 
 /* =========================
@@ -88,7 +147,7 @@ a:hover {
   text-decoration: none;
 }
 
-/* Make portfolio file links feel like buttons */
+/* File/download links */
 li a {
   display: inline-block;
   background: var(--surface-light);
@@ -96,11 +155,14 @@ li a {
   border-radius: 8px;
   padding: 8px 14px;
   margin: 4px 0;
+  font-weight: 500;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.15);
 }
 
 li a:hover {
   border-color: var(--accent);
-  transform: translateY(-1px);
+  transform: translateY(-2px);
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.25);
 }
 
 /* =========================
@@ -116,11 +178,11 @@ hr {
     var(--accent),
     transparent
   );
-  margin: 42px 0;
+  margin: 48px 0;
 }
 
 /* =========================
-   CODE REVIEW LINK
+   CODE REVIEW / ACTION LINKS
    ========================= */
 
 h2 a {
@@ -139,6 +201,25 @@ h2 a:hover {
 }
 
 /* =========================
+   ENHANCEMENT SECTIONS
+   ========================= */
+
+h2[id*="software"],
+h2[id*="algorithms"],
+h2[id*="databases"] {
+  margin-top: 50px;
+  padding: 18px 20px;
+  background: linear-gradient(
+    90deg,
+    rgba(96, 165, 250, 0.09),
+    transparent
+  );
+  border-left: 3px solid var(--accent);
+  border-bottom: 1px solid var(--border);
+  border-radius: 6px;
+}
+
+/* =========================
    CODE
    ========================= */
 
@@ -147,6 +228,12 @@ pre {
   background: var(--surface);
   border: 1px solid var(--border);
   border-radius: 6px;
+}
+
+.highlight,
+pre,
+code {
+  background-color: var(--surface);
 }
 
 /* =========================
@@ -159,13 +246,6 @@ header {
 
 footer {
   color: var(--muted);
-}
-
-/* Remove default light backgrounds */
-.highlight,
-pre,
-code {
-  background-color: var(--surface);
 }
 
 /* =========================
@@ -182,11 +262,30 @@ code {
    ========================= */
 
 @media (max-width: 700px) {
+  body {
+    padding: 0 8px;
+  }
+
   h1 {
     font-size: 2.1rem;
   }
 
-  body {
-    padding: 0 8px;
+  .hero {
+    padding: 25px 22px;
+    border-radius: 12px;
+    margin-top: 12px;
+  }
+
+  .hero h1 {
+    font-size: 2.25rem;
+  }
+
+  .hero h3 {
+    font-size: 1.05rem;
+  }
+
+  li a {
+    display: block;
+    width: fit-content;
   }
 }
