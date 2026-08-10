@@ -1,11 +1,19 @@
 <link rel="stylesheet" href="/assets/css/style.css">
+
+<div class="hero">
+
 # Zeeshan Hyder
 
-## CS 499 Computer Science Capstone ePortfolio
+### Computer Science • Software Development
+
+**CS 499 Computer Science Capstone ePortfolio**  
+Southern New Hampshire University
 
 Welcome to my CS 499 ePortfolio. This portfolio showcases the knowledge, skills, and experience I developed throughout the Bachelor of Science in Computer Science program at Southern New Hampshire University.
 
 The featured artifact throughout this capstone is the **Travlr Getaways Full-Stack Web Application**, a MEAN stack application enhanced across three milestones focusing on software engineering and design, algorithms and data structures, and databases.
+
+</div>
 
 ---
 
@@ -13,7 +21,7 @@ The featured artifact throughout this capstone is the **Travlr Getaways Full-Sta
 
 My professional self-assessment reflects on my development throughout the Computer Science program, the technical and professional skills I gained along the way, and how these experiences have prepared me to enter the computer science field.
 
-- 📄 [Professional Self-Assessment](Professional-Self-Assessment.pdf)
+- 📄 [View Professional Self-Assessment](Professional-Self-Assessment.pdf)
 
 ---
 
@@ -27,45 +35,49 @@ This code review evaluates the original Travlr Getaways Full-Stack Web Applicati
 
 ## Original Artifact
 
+### Starting Point
+
 The original artifact is the **Travlr Getaways Full-Stack Web Application**, created during CS 465: Full Stack Development I before any CS 499 enhancements were implemented. This version provides a baseline for demonstrating the progression of the application throughout the capstone.
 
 - 💻 [Original Source Code](Original-Artifact/Travlr-Original.zip)
 
 ---
 
-## Enhancement One
+# Capstone Enhancements
 
-### Software Design and Engineering
+## 01 — Software Design and Engineering
+
+**Enhancement One**
 
 This enhancement focused on improving the software engineering practices of the Travlr Getaways Full-Stack Web Application through stronger authentication, validation, error handling, reusable controller logic, and application architecture.
 
-- 📄 [Enhancement One Narrative](Enhancement-One/Enhancement-One-Narrative.pdf)
-- 💻 [Enhanced Source Code](Enhancement-One/Enhancement-One.zip)
+- 📄 [View Narrative](Enhancement-One/Enhancement-One-Narrative.pdf)
+- 💻 [View Enhanced Source Code](Enhancement-One/Enhancement-One.zip)
 
 ---
 
-## Enhancement Two
+## 02 — Algorithms and Data Structures
 
-### Algorithms and Data Structures
+**Enhancement Two**
 
 This enhancement focused on improving the application's functionality and efficiency by implementing backend searching, dynamic sorting, and pagination using MongoDB queries integrated with the Angular frontend.
 
-- 📄 [Enhancement Two Narrative](Enhancement-Two/Enhancement-Two-Narrative.pdf)
-- 💻 [Enhanced Source Code](Enhancement-Two/Enhancement-Two.zip)
+- 📄 [View Narrative](Enhancement-Two/Enhancement-Two-Narrative.pdf)
+- 💻 [View Enhanced Source Code](Enhancement-Two/Enhancement-Two.zip)
 
 ---
 
-## Enhancement Three
+## 03 — Databases
 
-### Databases
+**Enhancement Three**
 
 This enhancement focused on strengthening the application's database design through improved schema validation, unique constraints, indexing, data normalization, and query optimization to improve data integrity, reliability, and efficiency.
 
-- 📄 [Enhancement Three Narrative](Enhancement-Three/Enhancement-Three-Narrative.pdf)
-- 💻 [Enhanced Source Code](Enhancement-Three/Enhancement-Three.zip)
+- 📄 [View Narrative](Enhancement-Three/Enhancement-Three-Narrative.pdf)
+- 💻 [View Enhanced Source Code](Enhancement-Three/Enhancement-Three.zip)
 
 ---
 
 ## Contact
 
-- GitHub: [Zeeshan2x](https://github.com/Zeeshan2x)
+**GitHub:** [Zeeshan2x](https://github.com/Zeeshan2x)
