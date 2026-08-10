@@ -1,18 +1,21 @@
 <link rel="stylesheet" href="/assets/css/style.css">
 
 <div class="hero">
+  <h1>Zeeshan Hyder</h1>
+  <h3>Computer Science • Software Development</h3>
 
-# Zeeshan Hyder
+  <div class="hero-meta">
+    <strong>CS 499 Computer Science Capstone ePortfolio</strong><br>
+    Southern New Hampshire University
+  </div>
 
-### Computer Science • Software Development
+  <p>
+    Welcome to my CS 499 ePortfolio. This portfolio showcases the knowledge, skills, and experience I developed throughout the Bachelor of Science in Computer Science program at Southern New Hampshire University.
+  </p>
 
-**CS 499 Computer Science Capstone ePortfolio**  
-Southern New Hampshire University
-
-Welcome to my CS 499 ePortfolio. This portfolio showcases the knowledge, skills, and experience I developed throughout the Bachelor of Science in Computer Science program at Southern New Hampshire University.
-
-The featured artifact throughout this capstone is the **Travlr Getaways Full-Stack Web Application**, a MEAN stack application enhanced across three milestones focusing on software engineering and design, algorithms and data structures, and databases.
-
+  <p>
+    The featured artifact throughout this capstone is the <strong>Travlr Getaways Full-Stack Web Application</strong>, a MEAN stack application enhanced across three milestones focusing on software engineering and design, algorithms and data structures, and databases.
+  </p>
 </div>
 
 ---
