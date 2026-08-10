@@ -40,6 +40,15 @@ body {
 
 section {
   max-width: 1000px;
+  margin-top: 40px;
+}
+
+/* =========================
+   HIDE DEFAULT JEKYLL HEADER
+   ========================= */
+
+header {
+  display: none;
 }
 
 /* =========================
@@ -78,6 +87,16 @@ section {
   border: none;
 }
 
+.hero-meta {
+  color: var(--muted);
+  font-size: 0.95rem;
+  margin-bottom: 24px;
+}
+
+.hero-meta strong {
+  color: var(--accent-light);
+}
+
 .hero strong {
   color: var(--accent-light);
 }
@@ -113,6 +132,7 @@ h3 {
 }
 
 /* Capstone Enhancements heading */
+
 section > h1 {
   margin-top: 55px;
   font-size: 2rem;
@@ -148,6 +168,7 @@ a:hover {
 }
 
 /* File/download links */
+
 li a {
   display: inline-block;
   background: var(--surface-light);
@@ -182,7 +203,7 @@ hr {
 }
 
 /* =========================
-   CODE REVIEW / ACTION LINKS
+   ACTION LINKS
    ========================= */
 
 h2 a {
@@ -237,12 +258,8 @@ code {
 }
 
 /* =========================
-   HEADER / FOOTER
+   FOOTER
    ========================= */
-
-header {
-  border-bottom: 1px solid var(--border);
-}
 
 footer {
   color: var(--muted);
