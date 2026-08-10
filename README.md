@@ -32,7 +32,7 @@ My professional self-assessment reflects on my development throughout the Comput
 
 This code review evaluates the original Travlr Getaways Full-Stack Web Application created during CS 465: Full Stack Development I. The review examines the application's software engineering and design, algorithms and data structures, and database components while outlining the enhancements planned and completed throughout the CS 499 capstone.
 
-- 🎥 **[Watch the Code Review Video](https://snhu-my.sharepoint.com/\:v:/r/personal/zeeshan_syedhyger_snhu_edu/Documents/Milestone%20One-%20Code%20Review_%20Syed%20Zeeshan%20Hyder%20\(1\).mp4?csf=1\&web=1\&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0\&e=43DoRP)**
+- 🎥 **[Watch the Code Review Video](https://snhu-my.sharepoint.com/:v:/g/personal/zeeshan_syedhyger_snhu_edu/IQB7wQzEyxNWSId-4kMuCGmeAamnZa_lI_FWOFoVso6bGn8?e=Im9HJB&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)**
 
 ---
 
